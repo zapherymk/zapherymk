@@ -25,6 +25,6 @@ const aboutMe = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maría-kuttel-133915223/" target="_blank" style="text-align: center; width: 100%;"><span style="font-size: 40px; color: #fff;">☛  </span><img align="center" src="./linkedinLogo.png" alt="Linkedin of María Kuttel" height="50" width="50" /><span style="font-size: 40px; color: #fff;">  ☚</span></a>
+<a href="https://www.linkedin.com/in/maría-kuttel-133915223/" target="_blank" style="text-align: center; width: 100%;"><span style="font-size: 40px; color: #fff;">☛  </span><img align="center" src="https://static.vecteezy.com/system/resources/previews/032/329/176/large_2x/linkedin-icon-logo-symbol-free-png.png" alt="Linkedin of María Kuttel" height="50" width="50" /><span style="font-size: 40px; color: #fff;">  ☚</span></a>
 
 
